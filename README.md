@@ -24,7 +24,7 @@
 <ul>
 
 <li>
-<a href="www.linkedin.com/in/pedro-luque-castano-4a19a72a6" target="_blank">
+<a href="www.linkedin.com/in/pedro-luque-castano-4a19a72a6">
 <img src="https://img.shields.io/badge/linkedin:  Pedro Luque Castaño-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
