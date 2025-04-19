@@ -1,8 +1,10 @@
 <h1 style="display: inline-block">Hi, I'm Pedro Luque</h1>
 
-- 👨‍💻 I’ve always been passionate about the IT world. I’m currently in my final year of the Computer Programming degree at UTN (Universidad Tecnológica Nacional), where I’ve built a solid foundation in logic, data structures, and languages like C and C++.
+- 👨‍💻 Hi, I'm Pedro, a young programmer with a strong passion for the IT world. I'm currently in my final year of the Computer Programming degree at UTN (Universidad Tecnológica Nacional), where I’ve built a solid foundation in logic, data structures, and programming with languages like C and C++.
 
-- 🌐 I'm focusing on frontend development, working with HTML, CSS, JavaScript, and React. I enjoy creating clean, dynamic, and user-friendly interfaces with a strong emphasis on user experience.
+- 🌐 My focus is on frontend web development, working with technologies like HTML, CSS, JavaScript, and React. I enjoy creating clean, dynamic, and intuitive interfaces that enhance the user experience, always aiming for efficient and scalable solutions.
+
+- 🚀 I’m committed to continuous learning and constantly improving my skills, focusing on projects that allow me to apply my knowledge and grow in the development of high-quality software.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
