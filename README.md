@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’ve always been passionate about the IT world. I’m currently in my final year of the Computer Programming degree at UTN (Universidad Tecnológica Nacional), where I’ve built a solid foundation in logic, data structures, and languages like C and C++.
 
-- 🌐 I'm focusing on frontend development, working with HTML, CSS, and JavaScript, and currently diving deeper into React. I enjoy creating clean, dynamic, and user-friendly interfaces with a strong emphasis on user experience.
+- 🌐 I'm focusing on frontend development, working with HTML, CSS, JavaScript, and React. I enjoy creating clean, dynamic, and user-friendly interfaces with a strong emphasis on user experience.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
