@@ -2,7 +2,7 @@
 
 - 👨‍💻 Hi, I'm Pedro, a young programmer with a strong passion for the IT world. I'm currently in my final year of the Computer Programming degree at UTN (Universidad Tecnológica Nacional), where I’ve built a solid foundation in logic, data structures, and programming with languages like C and C++.
 
-- 🌐 My focus is on frontend web development, working with technologies like HTML, CSS, JavaScript, and React. I enjoy creating clean, dynamic, and intuitive interfaces that enhance the user experience, always aiming for efficient and scalable solutions.
+- 🌐 My focus is on web development, working with technologies like HTML, CSS, JavaScript, and React. I enjoy creating clean, dynamic, and intuitive interfaces that enhance the user experience, always aiming for efficient and scalable solutions.
 
 - 🚀 I’m committed to continuous learning and constantly improving my skills, focusing on projects that allow me to apply my knowledge and grow in the development of high-quality software.
 
