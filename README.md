@@ -4,7 +4,7 @@
 
 🚀 I'm committed to continuous growth and always striving to improve. I'm especially interested in projects that challenge me to apply my skills in real-world scenarios, enhance code quality, and deliver meaningful user experiences. 
 
-📚 I'm currently in my final year of the University Degree in Programming at UTN (Universidad Tecnológica Nacional), where I've built a strong foundation in logic, data structures, and programming with C and C++
+📚 I'm currently in my final year of the University Degree in Programming at UTN (Universidad Tecnológica Nacional), where I've built a strong foundation in logic, data structures, and programming with C and C++.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
